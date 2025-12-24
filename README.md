@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
 
-<h1 align="center">Hi, I'm Shubham Singh Shekhawat! 👋</h1>
+<h1 align="center">Hi, I'm Kishan Paliwal! 👋</h1>
 
 <p align="center" style="font-size:1.05em">
   <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
@@ -118,6 +118,6 @@ flowchart TD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
   <br>
-  <sub><i>Modern DevOps + DataScience by Shubham Saini</i></sub>
+  <sub><i>Data Analyst + DataScience by Kishan Paliwal</i></sub>
 </div>
 
